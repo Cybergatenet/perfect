@@ -10,8 +10,7 @@ const Login = () => {
   const handleSubmit = () => {
     console.log(password);
   }
-  
-  
+  // document.documentElement.classList
   return(
     <>
       <Header />
