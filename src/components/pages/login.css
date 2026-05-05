@@ -19,3 +19,12 @@ section.container{
     flex: 1;
     gap: 10px;
 }
+
+.showError{
+    width: 100%;
+    padding: 10px;
+    background-color: red;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 10px;
+}
